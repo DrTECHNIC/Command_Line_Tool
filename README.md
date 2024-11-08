@@ -37,7 +37,11 @@ py main.py
 pytest -v test.py
 ```
 # Тесты
-## Зависимости [репозитория](https://github.com/kriru/firstJava), взятого для теста:
-![]()
+## Зависимости [первого репозитория](https://github.com/kriru/firstJava), взятого для теста:
+![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test_1.png)
+## Зависимости [второго репозитория](https://github.com/kriru/firstJava), взятого для теста:
+![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test_2.png)
+## Зависимости [третьего репозитория](https://github.com/kriru/firstJava), взятого для теста:
+![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test_3.png)
 ## Общие тесты
 ![]()
