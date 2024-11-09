@@ -32,16 +32,16 @@ pip install -U pytest
 ```Bash
 py main.py
 ```
-Запуск [test.py]():
+Запуск [test.py](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test.py):
 ```Bash
 pytest -v test.py
 ```
 # Тесты
 ## Зависимости [первого репозитория](https://github.com/kriru/firstJava), взятого для теста:
 ![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test_1.png)
-## Зависимости [второго репозитория](https://github.com/kriru/firstJava), взятого для теста:
+## Зависимости [второго репозитория](https://github.com/iam-veeramalla/write_your_first_terraform_project), взятого для теста:
 ![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test_2.png)
-## Зависимости [третьего репозитория](https://github.com/kriru/firstJava), взятого для теста:
+## Зависимости [третьего репозитория](https://github.com/AceLewis/my_first_calculator.py), взятого для теста:
 ![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test_3.png)
 ## Общие тесты
-![]()
+![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/pytest.png)
