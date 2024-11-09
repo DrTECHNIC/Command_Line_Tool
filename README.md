@@ -45,3 +45,4 @@ pytest -v test.py
 ![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/test_3.png)
 ## Общие тесты
 ![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/pytest.png)
+![](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/pytest_result.png)
