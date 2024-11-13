@@ -17,13 +17,9 @@
 ```Bash
 git clone https://github.com/DrTECHNIC/Command_Line_Tool
 ```
-Скачивание библиотеки pillow:
+Скачивание библиотек [pillow](https://github.com/python-pillow/Pillow) и [pytest](https://github.com/pytest-dev/pytest) путём запуска файла [script.sh](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/script.sh):
 ```Bash
-pip install pillow
-```
-Скачивание библиотеки pytest:
-```Bash
-pip install -U pytest
+script.sh
 ```
 # Запуск
 Перед запуском необходимо прописать путь к анализируемому репозиторию в файле [config.csv](https://github.com/DrTECHNIC/Command_Line_Tool/blob/main/config.csv).
